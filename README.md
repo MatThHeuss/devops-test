@@ -33,6 +33,7 @@ Após a execução do comando, o projeto deve estar disponivel no `localhost`
 Para visualizar o dashboard do grafana basta acessar o `http://localhost:4000`
 ![grafana](images/grafana.png)
 
+* Para acessar o grafana basta inserir as credenciais `admin` para user e `admin` para senha
 * É possível importar os dashboards criados através do arquivos na pasta `grafana_dashboards`
 * É necessário configurar o datasource do `prometheus` no grafana
 
